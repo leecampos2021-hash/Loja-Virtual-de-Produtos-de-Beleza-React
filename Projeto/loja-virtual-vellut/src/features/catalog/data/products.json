@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Paleta de Sombras Nude",
+    "price": 50.89,
+    "category": "maquiagem",
+    "subcategory": "olhos",
+    "brand": "Ruby rose",
+    "image": "/src/assets/images/paleta.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Batom Matte Vermelho",
+    "price": 60.89,
+    "category": "maquiagem",
+    "subcategory": "lábios",
+    "brand": "Natura",
+    "image": "/src/assets/images/batom.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Perfume Floral 100ml",
+    "price": 120.89,
+    "category": "perfume",
+    "subcategory": "feminino",
+    "brand": "Natura",
+    "image": "/src/assets/images/perfume.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Rímel Volume Intenso",
+    "price": 45.89,
+    "category": "maquiagem",
+    "subcategory": "olhos",
+    "brand": "Eudora",
+    "image": "/src/assets/images/rimel.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Hidratante facial matte",
+    "price": 70.89,
+    "category": "skincare",
+    "subcategory": "rosto",
+    "brand": "vichy",
+    "image": "/src/assets/hidratante.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Óleo Capilar Semente de Uva",
+    "price": 50.89,
+    "category": "cabelo",
+    "subcategory": "tratamento",
+    "brand": "L'oreal Paris",
+    "image": "/src/assets/oleoCabelo.jpg"
+  }
+
+  
+]
